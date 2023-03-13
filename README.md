@@ -1,2 +1,2 @@
-# cordova-hybrid-vue-
+# cordova-hybrid-react
 Aplicacion base con Cordova + React.js
